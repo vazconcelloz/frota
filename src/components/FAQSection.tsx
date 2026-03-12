@@ -8,29 +8,29 @@ import { Button } from "@/components/ui/button";
 
 const faqs = [
   {
-    question: "Como funciona o estudo da FBN?",
-    answer: `O Estudo FBN é uma análise feita por especialistas para identificar o seguro automotivo mais adequado para o seu perfil.
-    Avaliamos o tipo de veículo, rotina de uso, região de circulação e coberturas necessárias. Com base nisso, apresentamos opções com melhor equilíbrio entre proteção e investimento.`,
+    question: "Como funciona o estudo de frota da FBN?",
+    answer: `O Estudo FBN é uma análise feita por especialistas em frotas para identificar a proteção ideal para sua operação.
+    Avaliamos quantidade e tipos de veículos, rotas de circulação, histórico de sinistros, perfil operacional e coberturas necessárias. Com base nisso, apresentamos opções com melhor equilíbrio entre proteção e custo operacional.`,
   },
   {
-    question: "Quais informações são necessárias para realizar o estudo do seguro automotivo?",
+    question: "Quais informações são necessárias para realizar o estudo de frota?",
     answer:
-      "Normalmente solicitamos dados básicos do condutor principal, informações do veículo e histórico de uso. Esses dados ajudam a montar um estudo preciso e alinhado ao seu risco.",
+      "Solicitamos dados da empresa, list de veículos (quantidade, modelos, valores), rotas principais, histórico de sinistros dos últimos 3 anos e perfil de uso. Esses dados ajudam a montar um estudo preciso e alinhado aos riscos da sua operação.",
   },
   {
-    question: "O seguro automotivo tem carência?",
+    question: "Qual é o prazo para ativar o seguro de frota?",
     answer:
-      "Em geral, o seguro passa a valer conforme as regras da proposta e a confirmação de vigência da seguradora. A equipe da FBN orienta cada etapa para que você saiba exatamente quando sua cobertura inicia.",
+      "O seguro passa a valer conforme as regras da proposta e a confirmação de vigência das seguradoras. Normalmente conseguimos ativar em 5 a 10 dias úteis. A equipe da FBN orienta cada etapa para que você saiba exatamente quando sua cobertura inicia.",
   },
   {
-    question: "Posso personalizar as coberturas do meu seguro?",
+    question: "Posso ajustar as coberturas da minha frota após contratação?",
     answer:
-      "Sim. É possível ajustar franquia, cobertura para terceiros, vidros, carro reserva, assistência 24h e outras proteções adicionais conforme sua necessidade.",
+      "Sim. É possível adicionar novos veículos, ajustar franquias, coberturas para terceiros, proteções adicionais e outras proteções conforme sua necessidade operacional mudar.",
   },
   {
-    question: "Como faço para iniciar meu estudo?",
+    question: "Como faço para iniciar meu estudo de frota?",
     answer:
-      "Clique em [CTA_ESTUDO] e envie suas informações básicas. A equipe da FBN entra em contato para montar a melhor solução de seguro automotivo.",
+      "Clique em [CTA_ESTUDO] e envie suas informações. A equipe da FBN entra em contato para fazer uma análise completa e montar a melhor solução de seguro de frota para sua empresa.",
   },
 ];
 

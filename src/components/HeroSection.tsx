@@ -26,24 +26,24 @@ const HeroSection = () => {
               </div>
             </div>
             <p className="absolute bottom-4 left-4 right-4 text-center text-primary-foreground font-heading font-bold text-lg md:text-xl">
-              Seguros automotivos não são todos iguais
+              Gerenciar uma frota é simplificar custos e riscos
             </p>
           </div>
 
           {/* CTA Side */}
           <div className="text-primary-foreground text-center md:text-left">
             <h1 className="text-3xl md:text-4xl lg:text-5xl font-heading font-extrabold leading-tight">
-              O Seguro ideal
+              Seguro de Frota
               <br />
-              para seu veículo
+              ideal para 
               <br />
               <span className="block text-primary-foreground/90">
-                <strong>premium ou blindado</strong>
+                <strong>sua operação</strong>
               </span>
             </h1>
 
             <p className="mt-4 text-primary-foreground/85 text-base md:text-lg leading-relaxed max-w-xl mx-auto md:mx-0">
-              Mais de 10.000 clientes já escolheram a FBN para encontrar coberturas adequadas e evitar surpresas no momento do sinistro.
+              Proteção estruturada para operações com múltiplos veículos, com análise especializada e suporte completo em sinistros.
               <br />
               
             </p>

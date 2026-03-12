@@ -43,8 +43,8 @@ const CTASection = () => {
       <div className="container px-4 md:px-8 text-center">
 
         <h2 className="text-2xl md:text-4xl font-heading font-extrabold text-primary-foreground">
-          Não perca mais tempo.{" "}
-          <span className="text-primary-foreground/90 block mt-1">Faça seu estudo agora.</span>
+          Sua frota merece proteção estratégica.{" "}
+          <span className="text-primary-foreground/90 block mt-1">Faça seu estudo de frota agora.</span>
         </h2>
 
         <div className="mt-6 flex flex-col sm:flex-row items-center justify-center gap-4 text-primary-foreground/80 text-sm">

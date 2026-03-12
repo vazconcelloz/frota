@@ -3,39 +3,39 @@ import { BriefcaseBusiness, ChartNoAxesColumn, Handshake, LayoutDashboard, Shiel
 const coverages = [
   {
     icon: BriefcaseBusiness,
-    title: "Cobertura personalizada para o seu perfil",
+    title: "Cobertura personalizada por tipo de frota",
     description:
-      "Estruturamos o seguro de acordo com o uso do veículo, região de circulação e nível de risco para evitar falhas de proteção.",
+      "Estruturamos o seguro de acordo com o tamanho, tipo de veículos, rotas de circulação e operação para proteger sua frota adequadamente.",
   },
   {
     icon: ChartNoAxesColumn,
-    title: "Análise de risco e custo-benefício",
+    title: "Análise de risco e otimização de custos",
     description:
-      "Comparamos opções entre seguradoras para equilibrar franquia, coberturas e valor final sem perder qualidade.",
+      "Comparamos opções entre seguradoras para reduzir prêmios, melhorar franquias e manter qualidade de cobertura.",
   },
   {
     icon: Handshake,
-    title: "Cobertura para terceiros e danos materiais",
+    title: "Responsabilidade civil abrangente",
     description:
-      "Proteção para responsabilidade civil e imprevistos que envolvam outros veículos, pessoas e patrimônio.",
+      "Proteção total para responsabilidade civil de toda a frota, envolvendo terceiros, pessoas e patrimônio em qualquer situação.",
   },
   {
     icon: LayoutDashboard,
-    title: "Assistência 24h completa",
+    title: "Gestão centralizada 24/7",
     description:
-      "Guincho, pane seca, troca de pneu, chaveiro e suporte emergencial para você não ficar parado na rua.",
+      "Portal de controle, acompanhamento de sinistros, relatórios de sinistralidade e suporte emergencial para toda a operação.",
   },
   {
     icon: ShieldCheck,
-    title: "Proteções adicionais",
+    title: "Coberturas adicionais estratégicas",
     description:
-      "Inclua coberturas como vidros, carro reserva, eventos da natureza e perda parcial conforme sua necessidade.",
+      "Inclua proteções como vidros, vencimento de documentação, cobertura de eventos climáticos e riscos operacionais específicos.",
   },
   {
     icon: MapPinned,
-    title: "Suporte em sinistro do início ao fim",
+    title: "Gestão de sinistros simplificada",
     description:
-      "Acompanhamos todo o processo de junto à seguradora para reduzir burocracia e acelerar cada etapa da sua indenização.",
+      "Acompanhamos todos os sinistros da frota, reduzindo burocracia, acelerando indenizações e otimizando sua operação.",
   },
 ];
 
@@ -44,7 +44,7 @@ const CoveragesSection = () => {
     <section className="pt-16 pb-8 md:pt-24 md:pb-10 bg-section-gray">
       <div className="container px-4 md:px-8">
         <h2 className="text-2xl md:text-3xl font-heading font-bold text-center text-primary mb-12">
-          Coberturas e <span className="text-primary">Assistências</span>
+          Proteção e <span className="text-primary">Gerenciamento</span>
         </h2>
 
         <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">

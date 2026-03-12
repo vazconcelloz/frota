@@ -3,23 +3,23 @@ import { CarFront, ShieldCheck, FileSearch, Headset } from "lucide-react";
 const features = [
   {
     icon: CarFront,
-    title: "Especialistas em veículos \n premium e blindados",
-    description: "Protegemos veículos de alto valor e blindados com coberturas dimensionadas para cada necessidade.",
+    title: "Especialistas em \n frotas",
+    description: "Protegemos frotas de qualquer tamanho com soluções escaláveis dimensionadas para cada tipo de negócio.",
   },
   {
     icon: ShieldCheck,
-    title: "Atendimento eficiente de verdade",
-    description: "O mercado oferece respostas genéricas. Nós entregamos soluções adaptadas à sua necessidade.",
+    title: "Gerenciamento eficiente de verdade",
+    description: "O mercado oferece soluções genéricas. Nós entregamos gestão de frota com suporte especializado.",
   },
   {
     icon: FileSearch,
-    title: "Cobertura realmente \n adequada",
-    description: "Estruturamos o seguro considerando as necessidades reais do seu veículo e perfil de uso."
+    title: "Cobertura realmente \n abrangente",
+    description: "Estruturamos a proteção considerando os riscos reais da sua operação e perfil de frota."
   },
   {
     icon: Headset,
-    title: "Suporte durante todo o \n contrato",
-    description: "Continuamos ao seu lado após a contratação, acompanhando renovações e auxiliando em sinistros.",
+    title: "Suporte para \n sua operação",
+    description: "Gerenciamos sinistros, renovações e otimizações contínuas para reduzir custos da sua frota.",
   },
 ];
 
@@ -29,8 +29,8 @@ const WhySection = () => {
       <div className="container px-4 md:px-8">
         <h2 className="text-2xl md:text-3xl font-heading font-bold text-center text-foreground">
           Por que{" "}
-          <span className="text-primary">mais de 10.000</span>{" "}
-          clientes escolheram a FBN?
+          <span className="text-primary">mais de 1.200 empresas</span>{" "}
+          escolheram a FBN?
         </h2>
 
 
