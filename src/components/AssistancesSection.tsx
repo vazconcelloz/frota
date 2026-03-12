@@ -17,7 +17,7 @@ const assistances = [
   },
   {
     icon: CarFront,
-    title: "Carro reserva",
+    title: "Carro",
     description:
       "Cobertura para situações comuns da rotina operacional, reduzindo tempo parado e impacto nas entregas ou atendimentos.",
   },
