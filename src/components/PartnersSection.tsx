@@ -10,7 +10,7 @@ const PartnersSection = () => {
         <p className="text-center text-sm md:text-base text-muted-foreground mb-10 max-w-2xl mx-auto leading-relaxed">
           
           <br />
-          Nossa equipe é especializada e foi convidada para ministrar o curso de Proteção para Locadoras da UniABLA, a universidade da ABLA, garantindo um reforço técnico que nenhuma outra corretora possui no Brasil. 
+          Nossa equipe é especializada e foi convidada para ministrar o curso de Proteção para Locadoras da UniABLA, a universidade da ABLA, garantindo um reforço técnico exclusivo. 
           <br />
           <strong className="text-foreground"> Quando falamos de frota, falamos a sua língua.</strong>
         </p>

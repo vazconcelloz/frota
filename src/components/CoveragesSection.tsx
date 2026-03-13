@@ -15,7 +15,7 @@ const coverages = [
   },
   {
     icon: IconTornado,
-    title: "Cobertura contra \n fenômenos natureza",
+    title: "Cobertura contra \n fenômenos da natureza",
     description:
       "Proteção contra enchentes, quedas de árvores, granizo e outros imprevistos climáticos.",
   },

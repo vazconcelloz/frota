@@ -35,6 +35,8 @@ const AssistancesSection = () => {
       <div className="container px-4 md:px-8">
         <h2 className="text-2xl md:text-3xl font-heading font-bold text-center text-primary mb-12">
           Assistências que mantêm sua <span className="text-primary">frota em movimento</span>
+          <br />
+          <span className="text-primary">e tranquilizam seu cliente</span>
         </h2>
 
         <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-6">
